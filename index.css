@@ -1,10 +1,10 @@
 *{ padding: 0;
    margin: 0;
-  
+   background-color: #d1dadc;
+   color: black;
 }
 
 .header {
-  background-color: #d1dadc;
   padding: 5px;
   display: flex;
   align-items: center;
@@ -28,7 +28,7 @@
 }
 
 .menu li {
-  margin-right: 20px;
+  margin-right: 120px;
 }
 
 .menu li a {
