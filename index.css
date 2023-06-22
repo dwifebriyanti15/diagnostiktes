@@ -4,7 +4,7 @@
 }
 
 .header {
-  background-color: skyblue;
+  background-color: #d1dadc;
   padding: 5px;
   display: flex;
   align-items: center;
@@ -40,6 +40,6 @@
 
 
 body {
-    background-image: url("img/1687416202-picsay.png");
+    background-color: #26918a;
     font-size: 15pt;
 }
