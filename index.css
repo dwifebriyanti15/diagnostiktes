@@ -21,14 +21,14 @@
 }
 
 .menu {
-  display: flex;
+  display: flexbox;
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
 
 .menu li {
-  margin-right: 120px;
+  margin-right: ;
 }
 
 .menu li a {
